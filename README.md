@@ -6,9 +6,9 @@ Learn how to use [biiif](https://github.com/edsilv/biiif) to generate [IIIF](htt
 
 Ensure you have [git](https://git-scm.com/) and [nodejs](https://nodejs.org/en/) installed.
 
-Create a github repo.
+Create a github repo named 'biiif-workshop'.
 
-Clone it.
+Clone it and `cd` into it. Now run:
 
     npm init -y
     npm i biiif --save
@@ -32,7 +32,7 @@ Add a cat pic to the /collection/_cat folder
 
     git checkout -b gh-pages
     git add -A
-    git commit -m "cat!"
+    git commit -m "cat pic"
     git push origin gh-pages
 
 Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
@@ -52,3 +52,5 @@ description: A cute cat
     git push origin gh-pages
 
 Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
+
+Open the 'more information' panel on the right hand side to see the metadata.
