@@ -10,6 +10,7 @@ Clone it.
     mkdir collection
     mkdir collection/_cats
     echo node_modules >> .gitignore
+    touch .nojekyll
 
 Add this to your package.json:
 
