@@ -15,7 +15,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/decentralised-data-workshop/collection/_cat/cat-in-sofa.jpg",
+                "id": "https://edsilv.github.io/decentralised-data-workshop/collection/_cat/cat.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -41,5 +41,5 @@
       "Cat"
     ]
   },
-  "description": "A cat stuck in a sofa"
+  "description": "A nice pic of a kitten"
 }
