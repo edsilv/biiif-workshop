@@ -1,6 +1,8 @@
-# decentralised-data-workshop
+# biiif-workshop
 
-You'll need git and npm installed.
+A short workshop to get learn how to generate [IIIF](http://iiif.io) data from static files and host it on github pages.
+
+Ensure you have [git](https://git-scm.com/) and [nodejs](https://nodejs.org/en/) installed.
 
 Create a github repo.
 
@@ -18,9 +20,11 @@ Add this to your package.json:
 
 ```
 "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/decentralised-data-workshop/collection"
+    "build": "./node_modules/.bin/biiif collection -u https://[username].github.io/biiif-workshop/collection"
 }
 ```
+
+Change [username] to your github username.
 
 Add a cat pic to the /collection/_cat folder
 
@@ -29,7 +33,7 @@ Add a cat pic to the /collection/_cat folder
     git commit -m "cat!"
     git push origin gh-pages
 
-Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fdecentralised-data-workshop%2Fcollection%2Findex.json)
+Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
 
 ## metadata
 
@@ -45,4 +49,4 @@ description: A cute cat
     git commit -m "added description"
     git push origin gh-pages
 
-Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fdecentralised-data-workshop%2Fcollection%2Findex.json)
+Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
