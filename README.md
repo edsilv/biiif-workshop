@@ -29,7 +29,7 @@ Add a cat pic to the /collection/_cat folder
     git commit -m "cat!"
     git push origin gh-pages
 
-Open https://edsilv.github.io/decentralised-data-workshop/collection/index.json on http://universalviewer.io/examples
+Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fdecentralised-data-workshop%2Fcollection%2Findex.json)
 
 ## metadata
 
@@ -45,4 +45,4 @@ description: A cute cat
     git commit -m "added description"
     git push origin gh-pages
 
-Open https://edsilv.github.io/decentralised-data-workshop/collection/index.json on http://universalviewer.io/examples
+Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fdecentralised-data-workshop%2Fcollection%2Findex.json)
