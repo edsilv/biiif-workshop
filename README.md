@@ -9,6 +9,7 @@ Clone it.
     npm i biiif-cli --save
     mkdir collection
     mkdir collection/_cats
+    echo node_modules >> .gitignore
 
 Add this to your package.json:
 
@@ -25,3 +26,4 @@ Add some images of cats to the /collection/_cats folder
     git commit -m "cats!"
     git push origin gh-pages
 
+Open [username].github.io/[repo]/collection/index.json on universalviewer.io/examples
