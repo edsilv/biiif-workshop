@@ -1,6 +1,8 @@
 # biiif-workshop
 
-A short workshop to get learn how to generate [IIIF](http://iiif.io) data from static files and host it on github pages.
+Learn how to use [biiif](https://github.com/edsilv/biiif) to generate [IIIF](http://iiif.io) data from static files and host it on github pages.
+
+--
 
 Ensure you have [git](https://git-scm.com/) and [nodejs](https://nodejs.org/en/) installed.
 
