@@ -8,7 +8,7 @@ Clone it.
     npm i biiif --save
     npm i biiif-cli --save
     mkdir collection
-    mkdir collection/_cats
+    mkdir collection/_cat
     echo node_modules >> .gitignore
     touch .nojekyll
 
@@ -20,11 +20,23 @@ Add this to your package.json:
 }
 ```
 
-Add some images of cats to the /collection/_cats folder
+Add a cat pic to the /collection/_cat folder
 
     git checkout -b gh-pages
     git add -A
-    git commit -m "cats!"
+    git commit -m "cat!"
     git push origin gh-pages
 
 Open [username].github.io/[repo]/collection/index.json on universalviewer.io/examples
+
+## metadata
+
+Create /collection/_cat/info.yml containing:
+
+```yml
+description: A cute cat
+```
+
+    npm run build
+    git add -A
+    git commit -m "added description"
