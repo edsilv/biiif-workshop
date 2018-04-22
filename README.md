@@ -29,7 +29,7 @@ Add a cat pic to the /collection/_cat folder
     git commit -m "cat!"
     git push origin gh-pages
 
-Open [username].github.io/[repo]/collection/index.json on universalviewer.io/examples
+Open https://edsilv.github.io/decentralised-data-workshop/collection/index.json on universalviewer.io/examples
 
 ## metadata
 
@@ -45,4 +45,4 @@ description: A cute cat
     git commit -m "added description"
     git push origin gh-pages
 
-Open [username].github.io/[repo]/collection/index.json on universalviewer.io/examples
+Open https://edsilv.github.io/decentralised-data-workshop/collection/index.json on universalviewer.io/examples
