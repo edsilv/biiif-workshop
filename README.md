@@ -1,5 +1,7 @@
 # decentralised-data-workshop
 
+You'll need git and npm installed.
+
 Create a github repo.
 
 Clone it.
@@ -34,9 +36,13 @@ Open [username].github.io/[repo]/collection/index.json on universalviewer.io/exa
 Create /collection/_cat/info.yml containing:
 
 ```yml
+label: Cat
 description: A cute cat
 ```
 
     npm run build
     git add -A
     git commit -m "added description"
+    git push origin gh-pages
+
+Open [username].github.io/[repo]/collection/index.json on universalviewer.io/examples
