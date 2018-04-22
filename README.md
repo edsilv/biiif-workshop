@@ -18,7 +18,7 @@ Add this to your package.json:
 
 ```
 "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://[username].github.io/[repo]/collection"
+    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/decentralised-data-workshop/collection"
 }
 ```
 
