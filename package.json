@@ -1,0 +1,24 @@
+{
+  "name": "decentralised-data-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/decentralised-data-workshop/collection"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/decentralised-data-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsilv/decentralised-data-workshop/issues"
+  },
+  "homepage": "https://github.com/edsilv/decentralised-data-workshop#readme",
+  "dependencies": {
+    "biiif": "^0.1.14",
+    "biiif-cli": "0.0.16"
+  }
+}
