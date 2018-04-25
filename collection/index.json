@@ -15,12 +15,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://edsilv.github.io/biiif-workshop/collection/_cat/cat.jpg",
+                "id": "https://edsilv.github.io/biiif-workshop/collection/_cat1/kitten.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_cat"
+                    "_cat1"
                   ]
                 }
               },
@@ -31,7 +31,73 @@
       ],
       "label": {
         "@none": [
-          "_cat"
+          "_cat1"
+        ]
+      }
+    },
+    {
+      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://edsilv.github.io/biiif-workshop/collection/_cat2/ginger-cat.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_cat2"
+                  ]
+                }
+              },
+              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_cat2"
+        ]
+      }
+    },
+    {
+      "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://edsilv.github.io/biiif-workshop/collection/_cat3/siamese-cat.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_cat3"
+                  ]
+                }
+              },
+              "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_cat3"
         ]
       }
     }
