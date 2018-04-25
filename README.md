@@ -11,7 +11,6 @@ Create a github repo named 'biiif-workshop'.
 Clone it and `cd` into it. Now run:
 
     npm init -y
-    npm i biiif --save
     npm i biiif-cli --save
     mkdir collection
     mkdir collection/_cat
