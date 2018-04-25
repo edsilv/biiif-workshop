@@ -15,12 +15,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_cat1/kitten.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_ginger/ginger-cat.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_cat1"
+                    "_ginger"
                   ]
                 }
               },
@@ -31,7 +31,7 @@
       ],
       "label": {
         "@none": [
-          "_cat1"
+          "_ginger"
         ]
       }
     },
@@ -48,12 +48,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_cat2/ginger-cat.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_kitten/kitten.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_cat2"
+                    "_kitten"
                   ]
                 }
               },
@@ -64,7 +64,7 @@
       ],
       "label": {
         "@none": [
-          "_cat2"
+          "_kitten"
         ]
       }
     },
@@ -81,12 +81,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_cat3/siamese-cat.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_siamese/siamese-cat.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_cat3"
+                    "_siamese"
                   ]
                 }
               },
@@ -97,15 +97,15 @@
       ],
       "label": {
         "@none": [
-          "_cat3"
+          "_siamese"
         ]
       }
     }
   ],
   "label": {
     "@none": [
-      "Cat"
+      "Cats"
     ]
   },
-  "description": "A cute cat"
+  "description": "Types of cats"
 }
