@@ -150,7 +150,13 @@
         "@none": [
           "_egyptian-mau"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_egyptian-mau/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4",
@@ -183,7 +189,13 @@
         "@none": [
           "_himalayan"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_himalayan/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/5",
@@ -216,7 +228,13 @@
         "@none": [
           "_norwegian-forest-cat"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_norwegian-forest-cat/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/6",
