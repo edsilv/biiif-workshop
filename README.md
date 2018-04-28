@@ -14,7 +14,7 @@ Clone it and `cd` into it. Now run:
     npm i biiif-cli --save
     mkdir collection
     mkdir collection/_cat
-    echo node_modules >> .gitignore
+    echo node_modules > .gitignore
     touch .nojekyll
 
 Add this to your package.json:
