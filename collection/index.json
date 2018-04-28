@@ -132,6 +132,105 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
+                "id": "https://biiif-workshop.netlify.com/collection/_egyptian-mau/egyptian-mau.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_egyptian-mau"
+                  ]
+                }
+              },
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_egyptian-mau"
+        ]
+      }
+    },
+    {
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://biiif-workshop.netlify.com/collection/_himalayan/himalayan.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_himalayan"
+                  ]
+                }
+              },
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_himalayan"
+        ]
+      }
+    },
+    {
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://biiif-workshop.netlify.com/collection/_norwegian-forest-cat/norwegian-forest-cat.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_norwegian-forest-cat"
+                  ]
+                }
+              },
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_norwegian-forest-cat"
+        ]
+      }
+    },
+    {
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
                 "id": "https://biiif-workshop.netlify.com/collection/_persian/persian.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
@@ -141,7 +240,7 @@
                   ]
                 }
               },
-              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3"
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/6"
             }
           ]
         }
@@ -159,15 +258,15 @@
       ]
     },
     {
-      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4",
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotationpage/0",
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotation/0",
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -180,7 +279,7 @@
                   ]
                 }
               },
-              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4"
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/7"
             }
           ]
         }
