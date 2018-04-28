@@ -34,6 +34,20 @@
           "Abyssinian"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "@none": [
+              "breed"
+            ]
+          },
+          "value": {
+            "@none": [
+              "Abyssinian"
+            ]
+          }
+        }
+      ],
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_abyssinian/thumb.jpeg",
