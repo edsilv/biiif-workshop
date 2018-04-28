@@ -20,7 +20,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_abyssinian"
+                    "Abyssinian"
                   ]
                 }
               },
@@ -31,7 +31,7 @@
       ],
       "label": {
         "@none": [
-          "_abyssinian"
+          "Abyssinian"
         ]
       },
       "thumbnail": [
@@ -59,7 +59,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_balinese"
+                    "Balinese"
                   ]
                 }
               },
@@ -70,7 +70,7 @@
       ],
       "label": {
         "@none": [
-          "_balinese"
+          "Balinese"
         ]
       },
       "thumbnail": [
@@ -98,7 +98,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_chartreux"
+                    "Chartreux"
                   ]
                 }
               },
@@ -109,7 +109,7 @@
       ],
       "label": {
         "@none": [
-          "_chartreux"
+          "Chartreux"
         ]
       },
       "thumbnail": [
@@ -137,7 +137,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_egyptian-mau"
+                    "Egyptian Mau"
                   ]
                 }
               },
@@ -148,7 +148,7 @@
       ],
       "label": {
         "@none": [
-          "_egyptian-mau"
+          "Egyptian Mau"
         ]
       },
       "thumbnail": [
@@ -176,7 +176,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_himalayan"
+                    "Himalayan"
                   ]
                 }
               },
@@ -187,7 +187,7 @@
       ],
       "label": {
         "@none": [
-          "_himalayan"
+          "Himalayan"
         ]
       },
       "thumbnail": [
@@ -215,7 +215,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_norwegian-forest-cat"
+                    "Norwegian Forest Cat"
                   ]
                 }
               },
@@ -226,7 +226,7 @@
       ],
       "label": {
         "@none": [
-          "_norwegian-forest-cat"
+          "Norwegian Forest Cat"
         ]
       },
       "thumbnail": [
@@ -254,7 +254,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_persian"
+                    "Persian"
                   ]
                 }
               },
@@ -265,7 +265,7 @@
       ],
       "label": {
         "@none": [
-          "_persian"
+          "Persian"
         ]
       },
       "thumbnail": [
@@ -293,7 +293,7 @@
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_somali"
+                    "Somali"
                   ]
                 }
               },
@@ -304,7 +304,7 @@
       ],
       "label": {
         "@none": [
-          "_somali"
+          "Somali"
         ]
       },
       "thumbnail": [
