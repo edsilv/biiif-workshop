@@ -15,12 +15,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_ginger/ginger-cat.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_abyssinian/abyssinian.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_ginger"
+                    "_abyssinian"
                   ]
                 }
               },
@@ -31,9 +31,15 @@
       ],
       "label": {
         "@none": [
-          "_ginger"
+          "_abyssinian"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_abyssinian/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/1",
@@ -48,12 +54,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_kitten/kitten.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_balinese/balinese.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_kitten"
+                    "_balinese"
                   ]
                 }
               },
@@ -64,9 +70,15 @@
       ],
       "label": {
         "@none": [
-          "_kitten"
+          "_balinese"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_balinese/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     },
     {
       "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/2",
@@ -81,12 +93,12 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://biiif-workshop.netlify.com/collection/_siamese/siamese-cat.jpg",
+                "id": "https://biiif-workshop.netlify.com/collection/_chartreux/chartreux.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
                   "@none": [
-                    "_siamese"
+                    "_chartreux"
                   ]
                 }
               },
@@ -97,9 +109,93 @@
       ],
       "label": {
         "@none": [
-          "_siamese"
+          "_chartreux"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_chartreux/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://biiif-workshop.netlify.com/collection/_persian/persian.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_persian"
+                  ]
+                }
+              },
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_persian"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_persian/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://biiif-workshop.netlify.com/collection/_somali/somali.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_somali"
+                  ]
+                }
+              },
+              "target": "https://biiif-workshop.netlify.com/collection/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_somali"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://biiif-workshop.netlify.com/collection/_somali/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
     }
   ],
   "label": {
@@ -107,5 +203,5 @@
       "Cats"
     ]
   },
-  "description": "Types of cats"
+  "description": "Cat Breeds"
 }
