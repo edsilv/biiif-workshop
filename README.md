@@ -2,7 +2,7 @@
 
 Learn how to use [biiif](https://github.com/edsilv/biiif) to generate [IIIF](http://iiif.io) data from static files and host it on github pages.
 
-Browse: https://edsilv.github.io/biiif-workshop/collection
+Browse: https://edsilv.github.io/biiif-workshop/
 
 ---
 
