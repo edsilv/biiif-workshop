@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/biiif-workshop/collection"
+    "build": "biiif collection -u https://edsilv.github.io/biiif-workshop/collection"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/edsilv/biiif-workshop#readme",
   "dependencies": {
-    "biiif-cli": "0.0.17"
+    "biiif-cli": "0.0.21"
   }
 }
