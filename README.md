@@ -33,6 +33,7 @@ Add this to your `package.json`:
 
 Add a cat pic to the `/collection/_cat` folder
 
+    npm run build
     git add -A
     git commit -m "cat pic"
     git push origin gh-pages
