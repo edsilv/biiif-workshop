@@ -527,5 +527,19 @@
     "@none": [
       "Cats"
     ]
-  }
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "Description"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Breeds of cats"
+        ]
+      }
+    }
+  ]
 }
