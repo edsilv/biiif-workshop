@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/edsilv/biiif-workshop#readme",
   "dependencies": {
-    "biiif-cli": "0.0.25"
+    "biiif-cli": "0.1.6"
   }
 }
