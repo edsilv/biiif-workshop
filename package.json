@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/biiif-workshop/collection",
+    "build": "./node_modules/.bin/biiif collection -u https://edsilv.github.io/biiif-workshop/collection -g",
     "testbuild": "node -e \"require('./node_modules/biiif/index.js').build('collection', 'https://edsilv.github.io/biiif-workshop/collection')\""
   },
   "repository": {
