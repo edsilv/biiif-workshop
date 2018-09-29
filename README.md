@@ -10,7 +10,7 @@ Browse: https://edsilv.github.io/biiif-workshop/
 
 Ensure you have [git](https://git-scm.com/) and [nodejs](https://nodejs.org/en/) installed.
 
-Create a github repo named 'biiif-workshop'. 
+Create a github repo named 'biiif-workshop'.
 
 From here onwards, `[username]` should be replaced with your github username.
 
@@ -54,7 +54,7 @@ description: A picture of a cat
     git commit -m "added description"
     git push origin gh-pages
 
-Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
+Open `https://[username].github.io/biiif-workshop/collection/index.json` on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
 
 Open the 'more information' panel on the right hand side to see the descriptive metadata.
 
