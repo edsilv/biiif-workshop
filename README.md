@@ -38,7 +38,7 @@ Add a cat pic to the `/collection/_cat` folder
     git commit -m "cat pic"
     git push origin gh-pages
 
-Open on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
+Open `https://[username].github.io/biiif-workshop/collection/index.json` on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
 
 ## Metadata
 
