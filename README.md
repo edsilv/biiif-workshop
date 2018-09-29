@@ -25,7 +25,7 @@ Add this to your `package.json`:
 
 ```
 "scripts": {
-    "build": "biiif collection -u https://[username].github.io/biiif-workshop/collection"
+    "build": "biiif collection -u https://[username].github.io/biiif-workshop/collection -g"
 }
 ```
 
