@@ -18,14 +18,13 @@ Clone your repo and `cd` into it. Now run:
 
     git checkout -b gh-pages
     npm init -y
-    npm i biiif-cli -g
-    biiif collection -u https://[username].github.io/biiif-workshop/collection -s
+    npx biiif collection -u https://[username].github.io/biiif-workshop/collection -s
 
 Add this to your `package.json`:
 
 ```
 "scripts": {
-    "build": "biiif collection -u https://[username].github.io/biiif-workshop/collection -g"
+    "build": "npx biiif collection -u https://[username].github.io/biiif-workshop/collection -g"
 }
 ```
 
@@ -35,7 +34,7 @@ Add a cat pic to the `/collection/_cat` folder
 
     npm run build
     git add -A
-    git commit -m "cat pic"
+    git commit -m "added cat pic"
     git push origin gh-pages
 
 Open `https://[username].github.io/biiif-workshop/collection/index.json` on [http://universalviewer.io/examples](http://universalviewer.io/examples/#?c=&m=&s=&cv=&manifest=https%3A%2F%2Fedsilv.github.io%2Fbiiif-workshop%2Fcollection%2Findex.json)
