@@ -1,6 +1,6 @@
 # biiif-workshop
 
-Note: Please also see https://github.com/edsilv/code-of-ethics-zine-workshop for a more detailed example of how to make a zine with biiif.
+> Note: Please also see https://github.com/edsilv/code-of-ethics-zine-workshop for a more detailed example of how to make a zine with biiif.
 
 Learn how to use [biiif](https://github.com/edsilv/biiif) to generate [IIIF](http://iiif.io) data from static files and host it on github pages.
 
