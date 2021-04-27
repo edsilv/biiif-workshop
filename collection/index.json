@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
   "id": "https://edsilv.github.io/biiif-workshop/collection/index.json",
   "type": "Manifest",
   "items": [
@@ -22,7 +26,16 @@
                   "@none": [
                     "Abyssinian"
                   ]
-                }
+                },
+                "width": 600,
+                "height": 400,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_abyssinian/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/0"
             }
@@ -60,6 +73,8 @@
           }
         }
       ],
+      "width": 600,
+      "height": 400,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_abyssinian/thumb.jpeg",
@@ -87,7 +102,16 @@
                   "@none": [
                     "Balinese"
                   ]
-                }
+                },
+                "width": 736,
+                "height": 552,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_balinese/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/1"
             }
@@ -125,6 +149,8 @@
           }
         }
       ],
+      "width": 736,
+      "height": 552,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_balinese/thumb.jpeg",
@@ -152,7 +178,16 @@
                   "@none": [
                     "Chartreux"
                   ]
-                }
+                },
+                "width": 1920,
+                "height": 1080,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_chartreux/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/2"
             }
@@ -190,6 +225,8 @@
           }
         }
       ],
+      "width": 1920,
+      "height": 1080,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_chartreux/thumb.jpeg",
@@ -217,7 +254,16 @@
                   "@none": [
                     "Egyptian Mau"
                   ]
-                }
+                },
+                "width": 1024,
+                "height": 805,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_egyptian-mau/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/3"
             }
@@ -255,6 +301,8 @@
           }
         }
       ],
+      "width": 1024,
+      "height": 805,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_egyptian-mau/thumb.jpeg",
@@ -282,7 +330,16 @@
                   "@none": [
                     "Himalayan"
                   ]
-                }
+                },
+                "width": 1280,
+                "height": 960,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_himalayan/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/4"
             }
@@ -320,6 +377,8 @@
           }
         }
       ],
+      "width": 1280,
+      "height": 960,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_himalayan/thumb.jpeg",
@@ -347,7 +406,16 @@
                   "@none": [
                     "Norwegian Forest Cat"
                   ]
-                }
+                },
+                "width": 900,
+                "height": 600,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_norwegian-forest-cat/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/5"
             }
@@ -385,6 +453,8 @@
           }
         }
       ],
+      "width": 900,
+      "height": 600,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_norwegian-forest-cat/thumb.jpeg",
@@ -412,7 +482,16 @@
                   "@none": [
                     "Persian"
                   ]
-                }
+                },
+                "width": 800,
+                "height": 533,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_persian/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/6"
             }
@@ -450,6 +529,8 @@
           }
         }
       ],
+      "width": 800,
+      "height": 533,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_persian/thumb.jpeg",
@@ -477,7 +558,16 @@
                   "@none": [
                     "Somali"
                   ]
-                }
+                },
+                "width": 1280,
+                "height": 790,
+                "service": [
+                  {
+                    "@id": "https://edsilv.github.io/biiif-workshop/collection/_somali/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
               },
               "target": "https://edsilv.github.io/biiif-workshop/collection/index.json/canvas/7"
             }
@@ -515,6 +605,8 @@
           }
         }
       ],
+      "width": 1280,
+      "height": 790,
       "thumbnail": [
         {
           "id": "https://edsilv.github.io/biiif-workshop/collection/_somali/thumb.jpeg",
